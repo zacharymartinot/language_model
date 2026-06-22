@@ -1,6 +1,6 @@
 # Building a Language Model
 
-This notebook contains both notes developing a ground-up mathematical description of language models, and a working code demonstration based on the ideas developed. 
+This notebook contains both notes developing a ground-up mathematical description of language models, and a working code demonstration. 
 
 The point here is to build up and understand the language modeling problem in general, and build something grounded in foundational approximation methods. The resulting non-softmax-attention-transformer model is implemented in PyTorch and tested on generating Shakespeare - it works as expected.
 
